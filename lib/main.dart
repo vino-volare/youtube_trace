@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
             icon: Icon(Icons.arrow_back),
             onPressed: (){},
           ),
-          title: const Text('YouTube'),
+          title: const Text('ようつべ'),
           backgroundColor: Colors.indigo,
           centerTitle: false,
           actions: <Widget>[
